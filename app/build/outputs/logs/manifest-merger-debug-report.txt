@@ -1,0 +1,527 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:2:1-322:12
+	package
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:3:11-49
+		INJECTED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:5:11-45
+		INJECTED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:7:5-9:40
+	android:targetSdkVersion
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml
+permission#com.gizwits.opensource.appkit.permission.JPUSH_MESSAGE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:12:5-14:46
+	android:protectionLevel
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:13:9-78
+uses-permission#com.gizwits.opensource.appkit.permission.JPUSH_MESSAGE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:17:5-93
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:17:22-91
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:20:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:21:5-83
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:21:22-81
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:22:5-72
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:22:22-70
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:25:5-88
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:25:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:32:5-80
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:32:22-78
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:33:5-74
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:33:22-72
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:35:22-79
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:36:5-87
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:36:22-85
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:37:5-75
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:37:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:40:5-78
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:40:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:41:5-75
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:41:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:42:5-78
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:42:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:43:5-74
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:43:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:44:5-80
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:44:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:45:5-80
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:45:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:46:5-66
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:46:22-64
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:47:5-67
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:47:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:48:5-68
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:48:22-66
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:49:5-75
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:49:22-73
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:50:5-68
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:50:22-66
+uses-permission#android.permission.CAMERA
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:51:5-64
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:51:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:52:5-65
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:52:22-63
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:55:5-85
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:55:22-83
+uses-feature#android.hardware.camera
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:57:5-59
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:57:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:58:5-69
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:58:19-67
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:60:5-67
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:60:22-65
+application
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:62:5-320:19
+	android:label
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:66:9-41
+	android:allowBackup
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:64:9-35
+	android:icon
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:65:9-45
+	android:theme
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:67:9-40
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:63:9-68
+activity#com.gizwits.opensource.appkit.UserModule.GosUserLoginActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:68:9-77:20
+	android:label
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:70:13-45
+	android:theme
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:71:13-44
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:69:13-89
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:72:13-76:29
+action#android.intent.action.MAIN
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:73:17-68
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:73:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:75:27-74
+activity#com.tencent.tauth.AuthActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:79:9-91:20
+	android:launchMode
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:81:13-44
+	android:noHistory
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:82:13-37
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:80:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:83:13-90:29
+action#android.intent.action.VIEW
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:84:17-68
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:84:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:86:17-75
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:86:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:87:17-77
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:87:27-75
+data
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:89:17-51
+	android:scheme
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:89:23-49
+activity#com.tencent.connect.common.AssistActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:92:9-95:74
+	android:configChanges
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:94:13-74
+	android:theme
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:95:13-72
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:93:13-69
+activity#com.gizwits.opensource.appkit.UserModule.GosRegisterUserActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:97:9-98:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:97:19-98
+activity#com.gizwits.opensource.appkit.UserModule.GosForgetPasswordActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:99:9-100:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:99:19-100
+activity#com.gizwits.opensource.appkit.ConfigModule.GosDeviceReadyActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:101:9-102:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:101:19-99
+activity#com.gizwits.opensource.appkit.ConfigModule.GosDeviceResetActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:103:9-104:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:103:19-99
+activity#com.gizwits.opensource.appkit.ConfigModule.GosChooseDeviceActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:105:9-106:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:105:19-100
+activity#com.gizwits.opensource.appkit.ConfigModule.GosConfigCountdownActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:107:9-108:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:107:19-103
+activity#com.gizwits.opensource.appkit.ConfigModule.GosConfigFailedActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:109:9-110:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:109:19-100
+activity#com.gizwits.opensource.appkit.DeviceModule.GosDeviceListActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:111:9-112:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:111:19-98
+activity#zxing.CaptureActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:113:9-115:62
+	android:theme
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:115:13-60
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:114:13-49
+activity#com.gizwits.opensource.appkit.SettingsModule.GosSettiingsActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:116:9-117:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:116:19-99
+activity#com.gizwits.opensource.appkit.SettingsModule.GosAboutActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:118:9-119:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:118:19-95
+activity#com.gizwits.opensource.appkit.ConfigModule.GosCheckDeviceWorkWiFiActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:120:9-121:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:120:19-107
+activity#com.gizwits.opensource.appkit.ControlModule.GosDeviceControlActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:122:9-123:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:122:19-102
+activity#com.gizwits.opensource.appkit.ConfigModule.GosModeListActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:124:9-125:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:124:19-96
+activity#com.gizwits.opensource.appkit.ConfigModule.GosAirlinkChooseDeviceWorkWiFiActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:126:9-127:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:126:19-115
+activity#com.gizwits.opensource.appkit.ConfigModule.GosAirlinkReadyActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:128:9-129:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:128:19-100
+activity#com.gizwits.opensource.appkit.ConfigModule.GosAirlinkConfigCountdownActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:130:9-131:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:130:19-110
+activity#com.gizwits.opensource.appkit.ControlModule.GosColorsListActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:132:9-133:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:132:19-99
+activity#com.gizwits.opensource.appkit.ControlModule.GosSmartLightActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:134:9-137:20
+	android:theme
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:136:13-66
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:135:13-93
+service#cn.jpush.android.service.PushService
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:142:9-152:19
+	android:enabled
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:144:13-35
+	android:exported
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:145:13-37
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:143:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:146:13-151:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:147:17-74
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:147:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:148:17-72
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:148:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:149:17-77
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:149:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:150:17-75
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:150:25-73
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:176:9-195:20
+	android:enabled
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:178:13-35
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:177:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.gizwits.opensource.appkit
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:179:13-183:29
+	android:priority
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:179:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:180:17-93
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:180:25-91
+category#com.gizwits.opensource.appkit
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:182:17-73
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:182:27-71
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:184:13-187:29
+action#android.intent.action.USER_PRESENT
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:185:17-76
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:185:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:186:17-78
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:186:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:189:13-194:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:190:17-77
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:190:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:191:17-79
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:191:25-77
+activity#cn.jpush.android.ui.PushActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:197:9-207:20
+	android:exported
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:200:13-37
+	android:configChanges
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:199:13-63
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:198:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.gizwits.opensource.appkit
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:201:13-206:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:202:17-74
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:202:25-72
+service#cn.jpush.android.service.DownloadService
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:209:9-213:19
+	android:enabled
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:211:13-35
+	android:exported
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:212:13-37
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:210:13-68
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:215:9-74
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:215:19-72
+receiver#com.gizwits.opensource.appkit.PushModule.JPushReceiver
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:218:9-238:20
+	android:enabled
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:220:13-35
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:219:13-82
+intent-filter#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.gizwits.opensource.appkit
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:221:13-237:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:224:17-78
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:224:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:226:17-82
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:226:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:228:17-87
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:228:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:230:17-85
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:230:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:232:17-90
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:232:25-88
+action#cn.jpush.android.intent.CONNECTION
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:234:17-76
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:234:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:246:9-248:48
+	android:value
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:248:13-46
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:247:13-41
+meta-data#JPUSH_APPKEY
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:250:9-252:36
+	android:value
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:252:13-34
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:251:13-40
+receiver#com.baidu.android.pushservice.PushServiceReceiver
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:257:9-271:20
+	android:process
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:259:13-44
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:258:13-77
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.baidu.android.pushservice.action.media.CLICK+com.baidu.android.pushservice.action.notification.SHOW
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:260:13-270:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:261:17-78
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:261:25-76
+action#com.baidu.android.pushservice.action.notification.SHOW
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:263:17-96
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:263:25-94
+action#com.baidu.android.pushservice.action.media.CLICK
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:264:17-90
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:264:25-88
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:266:17-77
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:266:25-75
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:268:17-86
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:268:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:269:17-89
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:269:25-87
+receiver#com.baidu.android.pushservice.RegistrationReceiver
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:273:9-285:20
+	android:process
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:275:13-44
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:274:13-78
+intent-filter#com.baidu.android.pushservice.action.BIND_SYNC+com.baidu.android.pushservice.action.METHOD
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:276:13-279:29
+action#com.baidu.android.pushservice.action.METHOD
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:277:17-85
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:277:25-83
+action#com.baidu.android.pushservice.action.BIND_SYNC
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:278:17-88
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:278:25-86
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:280:13-284:29
+service#com.baidu.android.pushservice.PushService
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:287:9-294:19
+	android:process
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:290:13-44
+	android:exported
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:289:13-36
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:288:13-69
+intent-filter#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:291:13-293:29
+action#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:292:17-91
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:292:25-89
+service#com.baidu.android.pushservice.CommandService
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:296:9-298:38
+	android:exported
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:298:13-36
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:297:13-72
+receiver#com.gizwits.opensource.appkit.PushModule.BaiDuPushReceiver
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:303:9-313:20
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:303:19-92
+intent-filter#com.baidu.android.pushservice.action.MESSAGE+com.baidu.android.pushservice.action.RECEIVE+com.baidu.android.pushservice.action.notification.CLICK
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:304:13-312:29
+action#com.baidu.android.pushservice.action.MESSAGE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:307:17-86
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:307:25-84
+action#com.baidu.android.pushservice.action.RECEIVE
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:309:17-86
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:309:25-84
+action#com.baidu.android.pushservice.action.notification.CLICK
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:311:17-97
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:311:25-95
+activity#com.gizwits.opensource.appkit.wxapi.WXEntryActivity
+ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:316:9-319:61
+	android:exported
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:318:13-36
+	android:theme
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:319:13-59
+	android:name
+		ADDED from D:\TDDOWNLOAD\GoKit_Demo_Android1\app\src\main\AndroidManifest.xml:317:13-79

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\devicecontrol.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\menu\\devicecontrol.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\devicelist_login.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\menu\\devicelist_login.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\devicecontrol_lan.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\menu\\devicecontrol_lan.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\devicelist_logout.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\menu\\devicelist_logout.xml"
+    }
+]

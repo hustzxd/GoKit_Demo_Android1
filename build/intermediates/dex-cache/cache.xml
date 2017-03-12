@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6fe22c135f19470d05b0816d5996c442ef67da3f">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_9f5b68216fbff975bd697b771386852351b7b417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_d0f3a0fab940b85ac19df243883109ebfc61b8c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\jpush-android-2.1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0f26f97f6d6c7cb02247e1ec35034732f234badb">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-2.1.5_f23fc3e68fa6a92dfb1d1328b7669dcda377cbf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_9ae33f966dc9c8f26b025bd185a23a12e2c9417e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\Lark7618SDK_noudp1606031910_0101.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9edeb9e389e2f4423152b9d8053ca53c4e3da121">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\Lark7618SDK_noudp1606031910_0101_87351b89d2acbca4576bb890c1c45f7899a5a52e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\BLEasyConfig.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44b2a7b4c787693373bbdbb9dce61f25766a8899">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\BLEasyConfig_8aaf1913a05b5a3186a4d1bf3c17f5d6bb75628c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af688eebdb3f2054100455b69477f103544c2ae7">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9c9632ee1f7f90e6538643558d3603216e123436\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\volley-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="65bc36362cd12e96f4acdc9933cf842bbcf7cc11">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley-1.0.19_cc7c7376c7ccd2736e195ddd20fb8c6c83dffe35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\hiflying-iots-android-smartlink7.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5dc3c2ab75a56e606040805e2c33ea4c6c01880">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\hiflying-iots-android-smartlink7.0.2_0f5c44c4307cc9fe99a1d7be7cea8061cf4033d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\OneShotConfig.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="768977ab6a04843973ab9f06113c2ece4e4890bf">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\OneShotConfig_a380417bf0da0497cf4d17b20c8ddb81ac167c27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\open_sdk_r5756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5756_7489e75e67ad3b0fbb1c264a6a23cb6234f7c249\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75e92c723336ca2129fc2ddd4860ec0fa31af3da">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f935b7c09bdc16713721e080898fa442ca22f520\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\simpleconfigwizardlib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0663943461ba77594377d342ced515e2d7dca900">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\simpleconfigwizardlib_d7b8cb171d9c48ef51c41ba05473ff067e3f3f2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\libForEElink.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a1202639b111412975bd004dcbc34222c8a43d12">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\libForEElink_3d1369c3a13026f417376af26b65bda7db01b214\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\easylink2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="639dd107e503051da416656cadc74e36ccc30f5d">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\easylink2.0_082588ad3bd7c42533ccdf3776a7ff2011950a85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\pushservice-5.0.0.66.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9afe4817302f358bdd51cc7c4c88f5ede2e70168">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\pushservice-5.0.0.66_69ed6d8030a6a96b9b30a75dec32af8f917937bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.6.2_2fed8b51cd63469b9a201843fc4887bc1eb23565\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\libEsptouch_v0.3.3.4_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e8b3a0511138e611f11abb6efa72d648c8f399c">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\libEsptouch_v0.3.3.4_3_ba7b6c5bbc707b2e07f1d5e5f6678278b8f56be3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\LSFSK_1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="577f62734f27e37de527687b91f80c240faa36bd">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\LSFSK_1.0_2c7d2be896e63e2c156e4ee10d8f3844a0875879\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_403f37d692f87e38cea89c8b1546c282790503d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\libs\GizWifiSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cabd89d60780ed3a3c07042adb9d33c07015a58a">
+        <dex dex="D:\TDDOWNLOAD\GoKit_Demo_Android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\GizWifiSDK_a73db93078ac72b57b9adcd7d0167f29209f8ff7\classes.dex" />
+    </item>
+
+</items>

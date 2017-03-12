@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gizwitslogo.png",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\drawable-hdpi\\gizwitslogo.png"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splashbackgroud.png",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\drawable-hdpi\\splashbackgroud.png"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_divider.png",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\drawable-hdpi\\ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_back.png",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\drawable-hdpi\\ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

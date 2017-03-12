@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_check_device_workwifi.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_check_device_workwifi.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_airlink_config_countdown.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_airlink_config_countdown.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_about.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_about.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_config_countdown.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_config_countdown.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_gos_logout.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\alert_gos_logout.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_colorlist.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_colorlist.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_smartlight.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_smartlight.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_gos_new_device.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\alert_gos_new_device.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_gos_quit.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\alert_gos_quit.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gos_mode_list.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\item_gos_mode_list.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvity_gos_airlink_ready.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\actvity_gos_airlink_ready.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_capture.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_capture.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gos_device_list.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\item_gos_device_list.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_gos_title_listview.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\view_gos_title_listview.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_device_ready.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_device_ready.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_settings.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_settings.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_device_list.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_device_list.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_user_login.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_user_login.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_airlink_choose_device_workwifi.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_airlink_choose_device_workwifi.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_gos_no_id.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\alert_gos_no_id.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_gos_set_device_info.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\alert_gos_set_device_info.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gos_wifi_list.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\item_gos_wifi_list.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_gos_wifi_list.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\alert_gos_wifi_list.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_forget_password.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_forget_password.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_register_user.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_register_user.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_modelist.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_modelist.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_config_failed.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_config_failed.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gos_colors_list.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\item_gos_colors_list.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_device_control.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_device_control.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gos_choose_device.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\activity_gos_choose_device.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvity_gos_device_reset.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\actvity_gos_device_reset.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_gos_notification.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\view_gos_notification.xml"
+    },
+    {
+        "merged": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_gos_empty.xml",
+        "source": "D:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\src\\main\\res\\layout\\alert_gos_empty.xml"
+    }
+]

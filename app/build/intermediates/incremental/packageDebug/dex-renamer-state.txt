@@ -1,0 +1,7 @@
+#Thu Mar 09 20:19:39 CST 2017
+base.0=D\:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9c9632ee1f7f90e6538643558d3603216e123436
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f935b7c09bdc16713721e080898fa442ca22f520\\classes.dex
+base.1=D\:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f935b7c09bdc16713721e080898fa442ca22f520
+file.0=D\:\\TDDOWNLOAD\\GoKit_Demo_Android1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9c9632ee1f7f90e6538643558d3603216e123436\\classes.dex
